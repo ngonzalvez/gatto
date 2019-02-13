@@ -1,4 +1,4 @@
-#gat.to
+# gat.to
 
 This package is a simple CLI tool to shorten URLs using [gat.to](https://gat.to).
 
