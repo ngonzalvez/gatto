@@ -1,0 +1,9 @@
+#!/bin/node
+const gatto = require('./gatto.js');
+
+
+try {
+    gatto(process.argv[2]).then(url => console.log(url));
+} catch(err) {
+    console.error(err);
+}
