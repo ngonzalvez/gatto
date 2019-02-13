@@ -1,0 +1,24 @@
+{
+  "name": "gat.to",
+  "version": "1.0.0",
+  "description": "Simple CLI tool to shorten URLs using gat.to",
+  "bin": {
+    "gatto": "src/gatto"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ngonzalvez/gatto.git"
+  },
+  "keywords": [
+    "cli",
+    "shorten",
+    "url",
+    "gatto"
+  ],
+  "author": "Nicolas Gonzalvez <n@gonzalvez.com.uy>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngonzalvez/gatto/issues"
+  },
+  "homepage": "https://github.com/ngonzalvez/gatto#readme"
+}
