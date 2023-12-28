@@ -1,14 +1,14 @@
-# gat.to
+<h3 align="center">gat.to</h3>
+<p align="center">A simple CLI tool to shorten URLs using [gat.to](https://gat.to).</p>
+<h1></h1>
 
-This package is a simple CLI tool to shorten URLs using [gat.to](https://gat.to).
-
-### Installation
+#### Installation
 
 ```bash
 npm i -g gat.to
 ```
 
-### Usage
+#### Usage
 
 ```bash
 gatto google.com
